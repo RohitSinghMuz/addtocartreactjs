@@ -1,0 +1,14 @@
+ul li{
+    list-style-type: none;
+  
+}
+a{
+    text-decoration: none;
+}
+ul{
+    display: flex;
+    justify-content: flex-start;
+    margin: 1em;
+    flex-direction: row;
+    gap:1em 2em;
+}
